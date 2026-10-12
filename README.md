@@ -24,7 +24,8 @@ Senior executives receive massive streams of unstructured information every week
 
 The **AIONOS Executive Productivity Agent** transforms raw, chaotic business inputs into an actionable daily executive brief for **Arjun Malhotra (VP Sales)**. It implements a **hybrid architecture** combining **Google Gemini 3.8 Flash** via **LangChain (`@langchain/google` and `@langchain/core`)** for semantic action extraction and conversational Q&A with **strict deterministic business logic** for entity normalization, cross-channel deduplication, deadline calculation, and ownership integrity.
 
-For a detailed technical comparison of what changed between the direct SDK version and this LangChain version, see [docs/LANGCHAIN_IMPLEMENTATION.md](docs/LANGCHAIN_IMPLEMENTATION.md).
+For a detailed technical comparison of what changed between the direct SDK version and this LangChain version, see [docs/LANGCHAIN_IMPLEMENTATION.md]
+(docs/LANGCHAIN_IMPLEMENTATION.md).
 
 ---
 
