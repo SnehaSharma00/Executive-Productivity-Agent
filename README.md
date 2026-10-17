@@ -41,7 +41,7 @@ For a detailed technical comparison of what changed between the direct SDK versi
 
   
 - **Explainable Evidence Audit Trail ("Why does the agent think this?")**:
-  - Every canonical action retains an auditable chronological evidence chain linking back to meetings, email threads, voice notes, or calendar entries with direct quotes and timestamps.use the given material as resource and refernece . pick concepts from these questions . find more related sections and concepts in the resource and then explain the whole section within the context. also explain the solution of these questions
+  - Every canonical action retains an auditable chronological evidence chain linking back to meetings, email threads, voice notes, or calendar entries with direct quotes and timestamps.
 - **Strict Ownership Integrity**:
   - When data does not confirm an owner (notably the *Mumbai Office Lease Renewal*), the system marks ownership as strictly **UNCLEAR**, preventing unauthorized task attribution.
 - **Cross-Channel Action Deduplication**:
