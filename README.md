@@ -38,6 +38,8 @@ For a detailed technical comparison of what changed between the direct SDK versi
   - Eliminates host system clock dependencies.
   - Simulates the historical week of **Sep 21–25, 2026** across 10 selectable timepoints (e.g., *Monday 9:00 AM*, *Wednesday 9:00 AM [Default]*, *Wednesday EOD*, *Thursday 9:00 AM*, *Friday EOD*).
   - Dynamically recalculates overdue status, active commitments, waiting states, and calendar visibility.
+
+  
 - **Explainable Evidence Audit Trail ("Why does the agent think this?")**:
   - Every canonical action retains an auditable chronological evidence chain linking back to meetings, email threads, voice notes, or calendar entries with direct quotes and timestamps.
 - **Strict Ownership Integrity**:
